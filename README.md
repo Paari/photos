@@ -24,4 +24,4 @@ Now run `npm run index`  this will copy the list of files as an object in the fo
 `database/list.json`
 
 now copy that data and paste replacing all the content in  `data.nosql`   
-make sure to live and extra line after the entry 😊 and you are all set to go, run `npm start` and you have the app running and ready to share.
+make sure to leave an extra line after the entry 😊 and you are all set to go, run `npm start` and you have the app running and ready to share.
